@@ -1,0 +1,11 @@
+td{
+    padding: 30px;
+}
+table table td {
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color: red;        
+    cursor: pointer;
+}
